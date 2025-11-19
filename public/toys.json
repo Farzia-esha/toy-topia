@@ -1,0 +1,151 @@
+[
+  {
+    "toyId": 1,
+    "toyName": "Lego Classic Bricks",
+    "sellerName": "Toys R Us Local",
+    "sellerEmail": "contact@toysruslocal.com",
+    "price": 49.99,
+    "rating": 4.7,
+    "availableQuantity": 75,
+    "description": "A timeless set of colorful Lego bricks that encourages creativity and problem-solving. Kids can build anything they imagine, from houses to vehicles. Perfect for ages 4 and up, this classic set includes 1000 pieces in various colors and shapes.",
+    "pictureURL": "https://i.ibb.co.com/wNFMJQxD/image.png",
+    "subCategory": "Building Blocks"
+  },
+  
+  {
+    "toyId": 2,
+    "toyName": "Barbie Dreamhouse",
+    "sellerName": "Dollhouse Paradise",
+    "sellerEmail": "info@dollhouseparadise.com",
+    "price": 199.99,
+    "rating": 4.9,
+    "availableQuantity": 30,
+    "description": "The ultimate Barbie dreamhouse with 3 floors, 8 rooms, and over 70 accessories. Features working elevator, pool with slide, and realistic sound effects. Perfect for imaginative play and storytelling.",
+    "pictureURL": "https://i.ibb.co.com/PsCvXtQ6/image.png",
+    "subCategory": "Dolls"
+  },
+    {
+    "toyId": 3,
+    "toyName": "Baby Doll with Accessories",
+    "sellerName": "Little Angels Toys",
+    "sellerEmail": "care@littleangelstoys.com",
+    "price": 34.99,
+    "rating": 4.6,
+    "availableQuantity": 70,
+    "description": "Realistic baby doll with soft body and vinyl limbs. Comes with bottle, pacifier, blanket, and outfit. Encourages nurturing play and emotional development. Suitable for ages 3+.",
+    "pictureURL": "https://i.ibb.co.com/Qj1xZPw0/image.png",
+    "subCategory": "Dolls"
+  },
+
+  {
+    "toyId": 4,
+    "toyName": "Play-Doh Mega Pack",
+    "sellerName": "Creative Kids Store",
+    "sellerEmail": "hello@creativekidsstore.com",
+    "price": 29.99,
+    "rating": 4.5,
+    "availableQuantity": 100,
+    "description": "36-pack of vibrant Play-Doh colors for endless creative fun. Non-toxic, safe for kids 2+. Includes rainbow colors, neon shades, and glitter options. Perfect for sculpting, molding, and artistic expression.",
+    "pictureURL": "https://i.ibb.co.com/84LbQ3Y3/image.png",
+    "subCategory": "Arts & Crafts"
+  },
+    {
+    "toyId": 5,
+    "toyName": "Soccer Ball & Goal Set",
+    "sellerName": "Sports Kids Depot",
+    "sellerEmail": "play@sportskidsdepot.com",
+    "price": 54.99,
+    "rating": 4.6,
+    "availableQuantity": 65,
+    "description": "Complete soccer training set with adjustable goal, size 3 ball, and pump. Portable and easy to assemble. Helps develop coordination and teamwork. Suitable for indoor and outdoor use.",
+    "pictureURL": "https://i.ibb.co.com/FLwyVCmK/image.png",
+    "subCategory": "Sports Toys"
+  },
+   {
+    "toyId": 6,
+    "toyName": "Melody Magic Keyboard",
+    "sellerName": "Harmony Toys Co.",
+    "sellerEmail": "music@harmonytoys.com",
+    "price": 29.99,
+    "rating": 4.6,
+    "availableQuantity": 60,
+    "description": "A colorful electronic keyboard that teaches rhythm, melody, and creativity. Includes sound effects and record mode.",
+    "pictureURL": "https://i.ibb.co.com/XxczVkNP/image.png",
+    "subCategory": "Musical Toys"
+  },
+  {
+    "toyId": 7,
+    "toyName": "Remote Control Drone",
+    "sellerName": "Tech Toys Pro",
+    "sellerEmail": "info@techtyspro.com",
+    "price": 89.99,
+    "rating": 4.7,
+    "availableQuantity": 40,
+    "description": "Easy-to-fly drone for beginners with 720p camera. Features altitude hold, headless mode, and one-key takeoff/landing. Flight time up to 15 minutes. Perfect for outdoor adventures and aerial photography.",
+    "pictureURL": "https://i.ibb.co.com/Wp4TM3g1/image.png",
+    "subCategory": "Electronic Toys"
+  },
+    {
+    "toyId": 8,
+    "toyName": "Hot Wheels Track Set",
+    "sellerName": "Speed Toys Hub",
+    "sellerEmail": "sales@speedtoyshub.com",
+    "price": 79.99,
+    "rating": 4.6,
+    "availableQuantity": 50,
+    "description": "Epic track set with loops, jumps, and crash zones. Includes 5 Hot Wheels cars and 20 feet of track. Features motorized booster for high-speed racing action. Great for solo or competitive play.",
+    "pictureURL": "https://i.ibb.co.com/ZRMDVmR9/image.png",
+    "subCategory": "Cars & Vehicles"
+  },
+
+  {
+    "toyId": 9,
+    "toyName": "Wooden Puzzle Set",
+    "sellerName": "Eco Kids Toys",
+    "sellerEmail": "hello@ecokidstoys.com",
+    "price": 19.99,
+    "rating": 4.5,
+    "availableQuantity": 90,
+    "description": "Set of 4 wooden puzzles featuring animals, vehicles, and shapes. Made from sustainable wood with non-toxic paint. Develops fine motor skills and problem-solving abilities. Perfect for toddlers 18 months+.",
+    "pictureURL": "https://i.ibb.co.com/7NG42qkt/image.png",
+    "subCategory": "Educational Toys"
+  },
+  {
+    "toyId": 10,
+    "toyName": "Dinosaur Action Figures",
+    "sellerName": "Prehistoric Play",
+    "sellerEmail": "roar@prehistoricplay.com",
+    "price": 39.99,
+    "rating": 4.8,
+    "availableQuantity": 55,
+    "description": "12-piece set of realistic dinosaur figures including T-Rex, Triceratops, and Velociraptor. Detailed sculpting and hand-painted features. Includes educational fact cards. Great for imaginative play and learning.",
+    "pictureURL": "https://i.ibb.co.com/KxqpRRZq/image.png",
+    "subCategory": "Action Figures"
+  },
+  {
+    "toyId": 11,
+    "toyName": "Kitchen Play Set",
+    "sellerName": "Little Chef Store",
+    "sellerEmail": "cook@littlechefstore.com",
+    "price": 149.99,
+    "rating": 4.9,
+    "availableQuantity": 25,
+    "description": "Complete kitchen playset with realistic appliances, utensils, and play food. Features working lights, sounds, and running water effect. Encourages role-play and social skills. Perfect for ages 3-8.",
+    "pictureURL": "https://i.ibb.co.com/fGMFYzpy/image.png",
+    "subCategory": "Pretend Play"
+  },
+   {
+    "toyId": 12,
+    "toyName": "Eco Wood Train Set",
+    "sellerName": "GreenPlay Crafts",
+    "sellerEmail": "care@greenplaycrafts.com",
+    "price": 34.0,
+    "rating": 4.9,
+    "availableQuantity": 40,
+    "description": "A handcrafted wooden train set made from eco-friendly materials. Safe, durable, and perfect for creative play.",
+    "pictureURL": "https://i.ibb.co.com/LDsMdwzq/image.png",
+    "subCategory": "Wooden Toys"
+  }
+
+
+]
