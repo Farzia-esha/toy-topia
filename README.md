@@ -64,7 +64,8 @@ allowing them to explore, try, and manage toys with an elegant UI and responsive
 
  ## 🧑‍💻 Author
 
-Farzia Khandokar Esha
-CSE Student | Web Development Enthusiast
+**Farzia Khandokar Esha**
+<br>
+Web Development Enthusiast
 
 
