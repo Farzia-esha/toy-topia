@@ -1,15 +1,21 @@
-🚀 ToyTopia
+## 🚀 ToyTopia
 
 ToyTopia is a modern web application that lets users explore, try, and manage their favorite toys online.
 It provides an interactive interface, toy details, and a smooth “Try Now” experience with local storage integration.
 
-📖 Description
+## 🌐 Live Site
+🔗 ToyTopia Live : [https://monumental-druid-dc4f92.netlify.app/]
 
-ToyTopia is designed to showcase a wide range of toys and give users a playful, interactive experience.
-Users can browse popular toys, view detailed information, try toys by submitting their name and email, and track all tried toys in one place.
-The app also supports authentication using email/password and Google login.
+## 🖼️ Project Overview
+ToyTopia is designed to showcase a wide range of toys and give users a playful, interactive experience. Users can:
+<br>
+- Browse popular toys with interactive cards
+- View detailed toy information
+- Submit toys via the “Try Now” form
+- Track all tried toys in one place
+- Authenticate using Email/Password or Google login.
 
-✨ Features
+## ✨ Features
 
 🧭 Modern & Responsive UI with Tailwind CSS and DaisyUI
 
@@ -29,29 +35,36 @@ The app also supports authentication using email/password and Google login.
 
 🖼️ Fully responsive Navbar and Footer
 
-🛠️ Technologies Used
+## 🧩 Core Technologies Used
+- React.js ⚛️
+- React Router DOM 🧭
+- Firebase Authentication 🔐
+- Tailwind CSS 🎨
+- DaisyUI 🌸
+- React Hot Toast 🔔
+- JavaScript (ES6+)
 
-React.js ⚛️
+  ## 🚀 Deployment
+  - netlify
 
-React Router DOM 🧭
 
-Firebase Authentication 🔐
+## 📦 Dependencies
+- react@18.x
+- react-router @6.x
+- tailwindcss@3.x
+- daisyui@4.x
+- firebase@10.x
+- react-hot-toast@10.x
 
-Tailwind CSS 🎨
-
-DaisyUI 🌸
-
-React Hot Toast 🔔
-
-JavaScript (ES6+)
-
-💡 Purpose
+## 💡 Purpose
 
 ToyTopia aims to create a smooth and interactive platform for toy enthusiasts,
 allowing them to explore, try, and manage toys with an elegant UI and responsive experience.
 
 
-🧑‍💻 Author
+ ## 🧑‍💻 Author
 
 Farzia Khandokar Esha
 CSE Student | Web Development Enthusiast
+
+
