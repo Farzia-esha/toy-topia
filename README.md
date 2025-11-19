@@ -48,13 +48,20 @@ ToyTopia is designed to showcase a wide range of toys and give users a playful, 
   - netlify
 
 
-## 📦 Dependencies
-- react@18.x
-- react-router @6.x
-- tailwindcss@3.x
-- daisyui@4.x
-- firebase@10.x
-- react-hot-toast@10.x
+## 📦 Dependencies:
+- @tailwindcss/vite ^4.1.15
+- aos ^2.3.4
+- firebase ^12.4.0
+- react ^19.1.1
+- react-dom ^19.1.1
+- react-hot-toast ^2.6.0
+- react-icons ^5.5.0
+- react-router ^7.9.4
+- react-router-dom ^7.9.4
+- react-toastify ^11.0.5
+- sweetalert2 ^11.26.3
+- swiper ^12.0.3
+- tailwindcss ^4.1.15
 
 ## 💡 Purpose
 
